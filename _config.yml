@@ -26,7 +26,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo
 
-url: https://idratherbewriting.com
+url: https://day-shift-jobs.github.io
 
 exclude:
   - _drafts
@@ -121,7 +121,7 @@ target: web
 
 ## itunes feed settings
 
-podcast_url: https://www.idratherbewriting.com
+podcast_url: https://day-shift-jobs.github.io
 podcast_album_art: https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/idratherbewritinglogo.png
 podcast_title: I'd Rather Be Writing Podcast
 podcast_owner: Tom Johnson
@@ -152,7 +152,7 @@ eventbrite_public_token: FUQRFCCTNLYIUXJZQCSV
 title: I'd Rather Be Writing
 tagline: Technical writing blog focusing on the latest trends, news, and other topics in the field of technical communication.
 description: Technical writing, technical communication, API documentation, trends, and other topics are covered here.
-url: https://idratherbewriting.com
+url: https://day-shift-jobs.github.io
 author:
   twitter: tomjohnson
 twitter:
